@@ -1,0 +1,66 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container5 {
+    width: 100%;
+    margin: 0%;
+    background-image: url(../image/mountain.png);
+    
+}
+
+.headpage {   
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
+
+.mountain {
+    font-family:serif;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 100px;
+    height: 400px;
+    width: 480px;
+    background-color: white;
+}  
+
+.mountain h1 {
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.mountain input {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    border-bottom: 2px solid pink;
+    width: 400px;
+    padding: 10px;
+    margin: 30px;
+}
+
+
+
+.mountain textarea {
+    font-family: serif;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    border-bottom: 2px solid gray;
+    width: 420px;
+    padding: 5px;
+    margin: 30px;
+}
+
+.mountain a{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    background-color:darkred ;
+}

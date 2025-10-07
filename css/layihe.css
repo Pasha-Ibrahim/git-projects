@@ -1,0 +1,157 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+.giris { 
+    width: 100%; 
+    background-position: center;
+    background-size: cover;
+    background-image: url(../image/backround-image.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    height: 830px;
+}
+ .giris img {
+    margin-left: 100px;
+    margin-top: 27px;
+    width: 118px;
+    height: 51px;
+ }
+
+ .melumat a {
+    margin: 25px;
+    color: white;
+ }
+ 
+
+ .melumat {
+    margin-left: 45px;
+    margin-top: 38px;
+ }
+
+
+.ikon2 img {
+    margin-top:35px;
+    margin-left: 35px;
+    padding: 2px;
+    border: 1px solid green;
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+
+.melumat2 {
+    margin-left: 60px;
+    display: flex;
+    margin-top: 24px;
+
+}
+
+.melumat2 a {
+margin-left: 60px;
+color: white;
+margin: 12px;
+}
+
+.container-second {
+    width: 1100px;
+    margin: 40px auto;
+}
+    
+
+
+.second-page {
+    display: flex;
+    font-size: 25px;
+    color: darkgreen;
+    
+}
+
+.text {
+    opacity: 60%;
+    font-size: 20px;
+    margin-top: 20px;
+    word-wrap: break-word;
+    width: 500px;
+}
+
+.div3 {
+    display: flex;
+}
+
+.div3 img {
+    margin-top: 10px;
+    height: 370px;
+    width: 500px;
+    margin-left: 140px;
+}
+
+.div3 a{
+    background-color: lightgray;
+    color:green ;
+    margin-top: 40px;
+    padding: 14px 35px 14px 25px;
+    border: 1px lightseagreen solid;
+    border-radius: 30px;
+}
+
+.a {
+    margin-top: 35px;
+}
+
+.container-third {
+    width: 1100px;
+    margin: 70px auto;
+}
+
+.basliq {
+    font-weight: bolder;
+    color: darkgreen;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+}
+
+.ikinci-hisse {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.ikinci-hisse a{
+    color: lightgreen;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.div4 {
+    display: flex;
+}
+
+.image2 img {
+    margin-top:30px;
+    width: 600px;
+    height: 370px;
+}
+
+.text2 {
+    margin-top: 40px;
+    margin-left: 52px;
+}
+
+.text2 p{
+    opacity: 60%;
+    font-size: 20px;
+    margin-top: 28px;
+}
+
+.text2 h3 {
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 21px;
+}
